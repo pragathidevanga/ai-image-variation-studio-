@@ -1,0 +1,17 @@
+# Core Web Framework
+streamlit>=1.30.0
+
+# Deep Learning & Generative Diffusion
+torch>=2.1.0
+torchvision>=0.16.0
+diffusers>=0.26.0
+transformers>=4.38.0
+accelerate>=0.27.0
+
+# Image Processing, Math, & Visualization
+pillow>=10.0.0
+numpy>=1.24.0
+matplotlib>=3.8.0
+
+# Testing & Quality Assurance
+pytest>=7.4.0
